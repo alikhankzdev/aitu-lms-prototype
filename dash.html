@@ -1,0 +1,31 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8">
+<title>Login</title><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:#0f172a;color:#e2e8f0}
+.wrap{max-width:980px;margin:0 auto;padding:28px}
+.card{background:#1e293b;border:1px solid #334155;border-radius:14px;padding:22px;margin-bottom:18px}
+h1,h2,h3{margin:0 0 12px}.muted{color:#94a3b8;font-size:13px}
+input,select,textarea{width:100%;padding:10px 12px;margin:6px 0 14px;border-radius:8px;border:1px solid #475569;background:#0f172a;color:#e2e8f0}
+button{background:#2563eb;color:#fff;border:0;border-radius:8px;padding:11px 18px;font-weight:600;cursor:pointer}
+button:hover{background:#1d4ed8}
+table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:9px 10px;border-bottom:1px solid #334155;text-align:left}
+th{color:#94a3b8;font-weight:600}
+.tag{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:600}
+.ok{background:#064e3b;color:#6ee7b7}.warn{background:#78350f;color:#fcd34d}.bad{background:#7f1d1d;color:#fca5a5}
+.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+a{color:#93c5fd}.sec{border-left:3px solid #22c55e;padding-left:12px;font-size:13px;color:#a7f3d0}
+</style></head><body><div class="wrap">
+<div class="top"><div><b style="font-size:20px">AITU LMS</b> <span class="muted">Student Portal</span></div><div></div></div>
+<div class="card" style="max-width:420px;margin:60px auto">
+<h2>Вход в личный кабинет</h2><p class="muted">Введите корпоративную почту и пароль</p>
+<form method="post" action="/login">
+<label class="muted">Email</label><input name="email" placeholder="261875@astanait.edu.kz" autofocus>
+<label class="muted">Password</label><input name="password" type="password" placeholder="********">
+<button type="submit">Войти</button></form>
+<p class="muted" style="margin-top:14px">Demo: student <b>261875@astanait.edu.kz / Alikhan2026!</b><br>
+teacher <b>diana.kazbekova@astanait.edu.kz / DianaPass2026!</b><br>
+admin <b>admin.lms@astanait.edu.kz / RootAdminSecure99#</b></p></div>
+<div class="card"><div class="sec"><b>Security:</b> passwords stored as salted SHA-256 (never plaintext) &middot;
+all queries are parameterized (SQL-injection safe) &middot; role-based access control &middot;
+audit log on every event &middot; output escaped (XSS-safe).</div></div>
+</div></body></html>
