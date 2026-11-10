@@ -63,7 +63,8 @@ CREATE TABLE IF NOT EXISTS submissions (
     grade DECIMAL(5,2) CHECK (grade >= 0.0 AND grade <= 100.0),
     feedback TEXT,
     FOREIGN KEY (assignment_id) REFERENCES assignments(id) ON DELETE CASCADE,
-    FOREIGN KEY (student_id) REFERENCES users(id) ON DELETE CASCADE
+    FOREIGN KEY (student_id) REFERENCES users(id) ON DELETE CASCADE,
+    UNIQUE (assignment_id, student_id)
 );
 
 -- 6. Audit & Security Logs Table (Threat Monitoring)
