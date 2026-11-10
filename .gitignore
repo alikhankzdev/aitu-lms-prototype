@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+.server-secret
+.session-secret
+private_uploads/
+backups/
+.env
+.DS_Store
+Thumbs.db
