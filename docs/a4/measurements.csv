@@ -1,0 +1,7 @@
+file,format,settings,dimensions,bytes,KB_decimal,quality_review
+image.png,PNG,{},800x450,175302,175.302,"Compare visually at native size; ratings in report are observations, not a perceptual metric."
+image-jpeg80.jpg,JPEG,"{""quality"": 80}",800x450,61842,61.842,"Compare visually at native size; ratings in report are observations, not a perceptual metric."
+image-jpeg40.jpg,JPEG,"{""quality"": 40}",800x450,37038,37.038,"Compare visually at native size; ratings in report are observations, not a perceptual metric."
+image-webp80.webp,WEBP,"{""quality"": 80, ""method"": 6}",800x450,18426,18.426,"Compare visually at native size; ratings in report are observations, not a perceptual metric."
+audio-10s-pcm.wav,WAV/PCM,44100 Hz mono 16-bit PCM,10.000 seconds,882044,882.044,Non-speech chime; listen to both. Not narration.
+audio-10s-aac96.m4a,M4A/AAC,"AAC target 96 kbit/s, mono 44100 Hz",10.000 seconds,123287,123.287,Non-speech chime; listen to both. Not narration.

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "static/avatar_adilkhan.webp",
+    "bytes": 4240,
+    "dimensions_or_duration": "(200, 200)",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "15129b26711ebbb3d5f4fa0645ec40d974ab043cd2d861e9289c6dfffecabe1e"
+  },
+  {
+    "file": "static/avatar_alikhan.webp",
+    "bytes": 4994,
+    "dimensions_or_duration": "(200, 200)",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "df7b2f430966e762c3e2d230d1fad87836895d2dc1417600f0eb06ae9b1c1314"
+  },
+  {
+    "file": "static/avatar_sanzhar.webp",
+    "bytes": 4708,
+    "dimensions_or_duration": "(200, 200)",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "4b24c8cd38114911be809acb54f32292effc6fe67710cdbd16b8d4e0f191cc60"
+  },
+  {
+    "file": "static/captions.vtt",
+    "bytes": 733,
+    "dimensions_or_duration": "26.5 s caption timeline, no matching speech",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "a712d20eb1d00a4157633c85899b356dcc01bbcb0212523aac58ef0c718ce7e3"
+  },
+  {
+    "file": "static/course_calc.webp",
+    "bytes": 17988,
+    "dimensions_or_duration": "(800, 450)",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "9aea73824bf4d49f52c19182df5106ab24994c4c958b42c65790a51d6b7950de"
+  },
+  {
+    "file": "static/course_ict.webp",
+    "bytes": 19736,
+    "dimensions_or_duration": "(800, 450)",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "5caf0072472e0baf8d51dd251bcc43134cbd6cf82d860a25a1168597802e5f54"
+  },
+  {
+    "file": "static/course_la.webp",
+    "bytes": 15022,
+    "dimensions_or_duration": "(800, 450)",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "af457d4269c037422aa6304eb05c881d25b7e15efa46b7a2a36b27f840672476"
+  },
+  {
+    "file": "static/course_prog.webp",
+    "bytes": 15336,
+    "dimensions_or_duration": "(800, 450)",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "fbd9617ece9dffb64fdea0e56c19eca73c6e294b0fc1c176c99bfcddb360ab9a"
+  },
+  {
+    "file": "static/logo.svg",
+    "bytes": 1502,
+    "dimensions_or_duration": "vector",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "66d2131b274a6658f74b4a12059f754d7bfdf68f7fc097723c03dc7408ad128c"
+  },
+  {
+    "file": "static/notification.wav",
+    "bytes": 88244,
+    "dimensions_or_duration": "1 second, PCM mono 44100 Hz",
+    "source": "Inherited teammate ZIP; author/tool not independently confirmed",
+    "license": "UNVERIFIED - ask creator for source and permission; do not claim own work",
+    "sha256": "898a894fbd79609d50083fce41713e957693bedf04597c243a16b02a9a43ae90"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "source": "static/course_ict.webp",
+  "source_sha256": "5caf0072472e0baf8d51dd251bcc43134cbd6cf82d860a25a1168597802e5f54",
+  "source_is_already_lossy_webp": true,
+  "image_size": [
+    800,
+    450
+  ],
+  "side_by_side_native_pixel_size": [
+    1600,
+    980
+  ],
+  "note": "PNG is a lossless decode of inherited WebP. It cannot restore information lost in the inherited source. These measurements are an A2 encoding comparison, not DevTools network measurements."
+}

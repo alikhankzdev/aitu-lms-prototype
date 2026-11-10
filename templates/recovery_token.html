@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<section class="panel"><h1>{{ t('recovery_token') }}</h1><p class="prose">{{ recovery_token }}</p><a class="button secondary" href="{{ url_for('admin') }}">{{ t('back') }}</a></section>{% endblock %}

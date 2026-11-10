@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <linearGradient id="aituGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0052cc" />
+      <stop offset="100%" stop-color="#2684ff" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+  <!-- Shield Badge -->
+  <path d="M12 10 L38 10 C46 10, 48 18, 48 26 C48 40, 30 48, 25 50 C20 48, 2 40, 2 26 C2 18, 4 10, 12 10 Z" fill="url(#aituGrad)" filter="url(#shadow)" />
+  <!-- Academic Cap / Tech Chevron -->
+  <path d="M14 26 L25 18 L36 26 L25 34 Z" fill="#ffffff" />
+  <path d="M25 35 L33 29 L33 36 C33 40, 25 43, 25 43 C25 43, 17 40, 17 36 L17 29 Z" fill="#e6f0ff" opacity="0.9" />
+  <circle cx="36" cy="27" r="2" fill="#ffd700" />
+  <path d="M36 28 L38 36" stroke="#ffd700" stroke-width="1.5" stroke-linecap="round" />
+  <!-- Typography -->
+  <text x="56" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="20" fill="#002766" letter-spacing="0.5">AITU<tspan fill="#0052cc">LMS</tspan></text>
+  <text x="56" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="9" fill="#6b778c" letter-spacing="1.2">STUDENT PORTAL 2.0</text>
+</svg>
